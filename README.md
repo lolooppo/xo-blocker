@@ -267,3 +267,8 @@ For issues, questions, or feature requests:
 - ⏱️ Mobile browsers (Feature work)
 - ⚠️ Opera/Brave (untested, may work)
 
+---
+## 🎥 Demo
+
+![XO Blocker Demo](https://raw.githubusercontent.com/lolooppo/xo-blocker/main/gif3.gif)
+

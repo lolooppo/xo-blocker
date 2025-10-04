@@ -33,7 +33,7 @@ XO Blocker is a self-control tool designed to help users manage their browsing h
 2. **Blocking**: When match found, content script injects fullscreen overlay
 3. **Game Loop**: User plays Tic-Tac-Toe games that auto-restart after each match
 4. **Timer**: Countdown runs continuously (default: 5 minutes)
-5. **Redirect**: After timer expires, user is automatically redirected to Google.com
+5. **Redirect**: After timer expires, user is automatically redirected to home page
 6. **Reset**: Each new visit starts a fresh timer
 
 ## 🌐 Browser Compatibility

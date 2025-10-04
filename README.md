@@ -264,5 +264,6 @@ For issues, questions, or feature requests:
 - ✅ Chrome (Desktop, version 88+)
 - ✅ Edge (Desktop, version 88+)
 - ✅ Firefox (Desktop, version 109+)
-- ❌ Mobile browsers (not supported)
+- ⏱️ Mobile browsers (Feature work)
 - ⚠️ Opera/Brave (untested, may work)
+

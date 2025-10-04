@@ -1,0 +1,26 @@
+<!-- options.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>XO Blocker Options</title>
+  <style>
+    body { font-family: sans-serif; background: #222; color: #fff; padding: 2em; }
+    label { display: block; margin-bottom: 1em; }
+    input[type=number] { width: 4em; }
+    button { margin-top: 1em; }
+  </style>
+</head>
+<body>
+  <h1>XO Blocker Options</h1>
+  <form id="options-form">
+    <label for="duration">Blocking duration (minutes):
+      <input id="duration" type="number" min="1" max="60" value="5" required aria-label="Blocking duration in minutes">
+    </label>
+    <button type="submit">Save</button>
+    <span id="status" role="status" aria-live="polite" style="margin-left:1em;"></span>
+  </form>
+  <script src="options.js"></script>
+</body>
+</html>
